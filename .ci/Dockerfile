@@ -1,4 +1,4 @@
-FROM fedora:rawhide
+erFROM fedora:rawhide
 MAINTAINER dhiru
 
 RUN rpm -e --nodeps gdbm
